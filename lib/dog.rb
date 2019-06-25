@@ -3,4 +3,5 @@ class Dog
   
 end
 
-bark.methods
+bark.methods 
+sit.methods
