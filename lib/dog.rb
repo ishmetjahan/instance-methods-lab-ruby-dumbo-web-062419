@@ -3,4 +3,4 @@ class Dog
   
 end
 
-bark= 
+bark.methods
